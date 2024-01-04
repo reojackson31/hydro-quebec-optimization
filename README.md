@@ -14,3 +14,6 @@ The second model focuses on minimizing greenhouse gas emissions, while also mini
 
 Refer to the [Project Report](https://github.com/reojackson31/hydro-quebec-optimization/blob/main/Project-Report.pdf) for details on the problem formulation and data sources for each model.  
 
+## Code Files
+- Hydro-Quebec-Model1.ipynb - Jupyter notebook for implementation of Model 1 using input files in the [Model1-Files](https://github.com/reojackson31/hydro-quebec-optimization/tree/main/Model1-Files) folder.
+- Hydro-Quebec-Model2.ipynb - Jupyter notebook for implementation of Model 2 using input files in the [Model2-Files](https://github.com/reojackson31/hydro-quebec-optimization/tree/main/Model2-Files) folder.
